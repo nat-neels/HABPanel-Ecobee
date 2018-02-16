@@ -5,3 +5,4 @@ Thank you for the work done by Tim Rogers and Red Apples on the original HABPane
 
 This takes the work originally done by them and modifies the design of the widget. 
 
+(ReadMeImages/MainPanel.PNG)
